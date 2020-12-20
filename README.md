@@ -1,5 +1,7 @@
 ### Hi there. Welcome to my list of repos 👋
 
+### 🌱 I’m currently learning but I really want to help you in your ideas...!!
+
 <!--
 **kdrodriguez/kdrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
